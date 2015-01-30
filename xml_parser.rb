@@ -1,8 +1,4 @@
-#!/usr/bin/ruby
-
 require 'ox'
-require 'awesome_print'
-require 'spreadsheet'
 
 module XMLParser
 
@@ -27,23 +23,23 @@ module XMLParser
 			programa_invalido = {:program_id => program_id, :event_id => event_id, :series_key => series_key, :problemas => []}
 
 			if !possui_titulo
-				programa_invalido[:problemas].push("Não existe título informado para o programa")
+				programa_invalido[:problemas].push("nao existe titulo informado para o programa")
 			end
 
 			if !datas_validas
-				programa_invalido[:problemas].push("data/hora fim (#{stop.strftime("%d/%m/%Y %H:%M:%S")}) menor que data/hora início (#{start.strftime("%d/%m/%Y %H:%M:%S")}) para o mesmo programa")
+				programa_invalido[:problemas].push("data/hora fim (#{stop.strftime("%d/%m/%Y %H:%M:%S")}) menor que data/hora inicio (#{start.strftime("%d/%m/%Y %H:%M:%S")}) para o mesmo programa")
 			end
 
 			if canal != id_canal
-				programa_invalido[:problemas].push("identificador de canal (#{canal}) diferente do informado no início do arquivo (#{id_canal})")
+				programa_invalido[:problemas].push("identificador de canal (#{canal}) diferente do informado no inicio do arquivo (#{id_canal})")
 			end
 
 			if stop_programa_anterior and (stop_programa_anterior != start)
-				programa_invalido[:problemas].push("data/hora início deste programa (#{start.strftime("%d/%m/%Y %H:%M:%S")}) diferente da data/hora fim do programa anterior (#{stop_programa_anterior.strftime("%d/%m/%Y %H:%M:%S")})")
+				programa_invalido[:problemas].push("data/hora inicio deste programa (#{start.strftime("%d/%m/%Y %H:%M:%S")}) diferente da data/hora fim do programa anterior (#{stop_programa_anterior.strftime("%d/%m/%Y %H:%M:%S")})")
 			end
 
 			if !datas_validas
-				programa_invalido[:problemas].push("data/hora fim (#{stop.strftime("%d/%m/%Y %H:%M:%S")}) menor que data/hora início (#{start.strftime("%d/%m/%Y %H:%M:%S")}) para o mesmo programa")
+				programa_invalido[:problemas].push("data/hora fim (#{stop.strftime("%d/%m/%Y %H:%M:%S")}) menor que data/hora inicio (#{start.strftime("%d/%m/%Y %H:%M:%S")}) para o mesmo programa")
 			end
 
 			stop_programa_anterior = stop
@@ -56,10 +52,10 @@ module XMLParser
 		problemas_arquivo = []
 
 		if documento.locate("*/programme/").empty?
-			problemas_arquivo.push("Não existe nenhum programa elencado no arquivo para este mês")
+			problemas_arquivo.push("nao existe nenhum programa elencado no arquivo para este mes")
 		elsif !dias_do_mes.empty?
 			dias_formatados = dias_do_mes.map { |dia| dia.strftime("%d/%m/%Y")}
-			problemas_arquivo.push("O(s) seguinte(s) dia(s) não está(ão) presente(s) no arquivo: " + dias_formatados.join(", "))
+			problemas_arquivo.push("o(s) seguinte(s) dia(s) nao esta(ao) presente(s) no arquivo: " + dias_formatados.join(", "))
 		end
 
 		return  {:id_canal => id_canal, :programas => programas, :problemas_arquivo => problemas_arquivo}
@@ -73,16 +69,6 @@ module XMLParser
 			dias.push(dia)
 		end
 		return dias
-	end
-
-	def XMLParser.codigos_canais caminho_arquivo_canais
-		arquivo_xls = Spreadsheet.open caminho_arquivo_canais
-		planilha = arquivo_xls.worksheet "Plan1"
-		canais = []
-		planilha.each do |linha|
-			canais.push({:id_canal => linha[0], :nome => linha[1]})
-		end
-		return canais
 	end
 end
 
