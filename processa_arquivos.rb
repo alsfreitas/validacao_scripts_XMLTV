@@ -11,6 +11,14 @@ planilha.each do |linha|
 end
 
 @meses = {"janeiro" => "01", "fevereiro" => "02", "marco" => "03", "abril" => "04", "maio" => "05", "junho" => "06", "julho" => "07", "agosto" => "08", "setembro" => "09", "outubro" => "10", "novembro" => "11", "dezembro" => "12"}
+@header_saida = "MES; ANO; TIPO DE ERRO; IDENTIFICADOR DO CANAL; NOME DO ARQUIVO OU CANAL; FATO GERADOR DO ERRO; DESCRICAO DO ERRO\n\n"
+@relatorio_consolidado = [@header_saida]
+
+def cria_diretorio path
+	Dir.mkdir(path) if not Dir.exist?(path)
+end
+
+cria_diretorio ARGV[2]
 
 def caminha path
 	resultado_validacao = []
@@ -45,31 +53,45 @@ def caminha path
 
 	if path != (ARGV[0])
 		captura_mes_ano = path.match(/\/(?<mes>[[:alpha:]]+)(?<ano>[[:digit:]]+)$/)
-		File.open("#{path}/#{captura_mes_ano[:mes]+captura_mes_ano[:ano]}.csv", "w+") do |arquivo_saida|
-			arquivo_saida.puts "MES; ANO; TIPO DE ERRO; IDENTIFICADOR DO CANAL; NOME DO ARQUIVO OU CANAL; FATO GERADOR DO ERRO; DESCRICAO DO ERRO\n\n"
+		caminho_novo_diretorio = "#{ARGV[2]}/#{captura_mes_ano[:mes]+captura_mes_ano[:ano]}"
+		cria_diretorio caminho_novo_diretorio
+		File.open("#{caminho_novo_diretorio}/#{captura_mes_ano[:mes]+captura_mes_ano[:ano]}.csv", "w+") do |arquivo_saida|
+			arquivo_saida.puts @header_saida
 			resultado_validacao.each do |resultado|
 				resultado[:programas].each do |programa|
 					programa[:problemas].each do |problema|
-						arquivo_saida.puts("#{captura_mes_ano[:mes]}; #{captura_mes_ano[:ano]}; PROGRAMA; #{resultado[:id_canal]}; #{resultado[:nome_arquivo]}; <programa: #{programa[:program_id]}, evento: #{programa[:event_id]}, serie: #{programa[:series_key]}>; #{problema}")
+						saida = "#{captura_mes_ano[:mes]}; #{captura_mes_ano[:ano]}; PROGRAMA; #{resultado[:id_canal]}; #{resultado[:nome_arquivo]}; <programa: #{programa[:program_id]}, evento: #{programa[:event_id]}, serie: #{programa[:series_key]}>; #{problema}"
+						arquivo_saida.puts saida
+						@relatorio_consolidado.push(saida)
 					end
 				end
 			end
 
 			resultado_validacao.each do |resultado|
 				resultado[:problemas_arquivo].each do |problema|
-					arquivo_saida.puts("#{captura_mes_ano[:mes]}; #{captura_mes_ano[:ano]}; ARQUIVO; #{resultado[:id_canal]}; #{resultado[:nome_arquivo]}; #{resultado[:nome_arquivo]}; #{problema}")
+					saida = "#{captura_mes_ano[:mes]}; #{captura_mes_ano[:ano]}; ARQUIVO; #{resultado[:id_canal]}; #{resultado[:nome_arquivo]}; #{resultado[:nome_arquivo]}; #{problema}"
+					arquivo_saida.puts(saida)
+					@relatorio_consolidado.push(saida)
 				end
 			end
 
-			if !canais_inexistentes.empty?
-				arquivo_saida.puts "\n"
+			canais_inexistentes.each do |canal|
+				saida = "#{captura_mes_ano[:mes]}; #{captura_mes_ano[:ano]}; CANAL; #{canal[:id_canal]}; #{canal[:nome]}; ARQUIVO INEXISTENTE; #{canal[:problema]}"
+				arquivo_saida.puts("#{captura_mes_ano[:mes]}; #{captura_mes_ano[:ano]}; CANAL; #{canal[:id_canal]}; #{canal[:nome]}; ARQUIVO INEXISTENTE; #{canal[:problema]}")
+				@relatorio_consolidado.push(saida)
 			end
 
-			canais_inexistentes.each do |canal|
-				arquivo_saida.puts("#{captura_mes_ano[:mes]}; #{captura_mes_ano[:ano]}; CANAL; #{canal[:id_canal]}; #{canal[:nome]}; NAO SE APLICA; #{canal[:problema]}")
+			@relatorio_consolidado.push "\n\n"
+		end
+
+		File.open("#{ARGV[2]}/consolidado.csv", "w+") do |arquivo_saida|
+			@relatorio_consolidado.each do |linha|
+				arquivo_saida.puts linha
 			end
 		end
+
 	end
+
 end
 
 caminha ARGV[0]

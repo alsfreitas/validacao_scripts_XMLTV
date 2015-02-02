@@ -1,0 +1,5749 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tv generator-info-name="Revista Eletronica - Unidade Lorenz Ltda" generator-info-url="http://www.revistaeletronica.com.br">
+<channel id="121">
+<display-name lang="pt">Premiere Clubes</display-name>
+<icon src="121.gif" />
+</channel>
+<programme start="20130801001500 -0300" stop="20130801015500 -0300" channel="121" program_id="0000341680" event_id="" series_key="">
+<title lang="pt">VT - Premiere Cruzeiro</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130801015501 -0300" stop="20130801034000 -0300" channel="121" program_id="0000341710" event_id="" series_key="">
+<title lang="pt">VT - Premiere TV Sport</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130801041000 -0300" stop="20130801034000 -0300" channel="121" program_id="0000331469" event_id="" series_key="">
+<title lang="pt">TV Sport</title>
+<desc>Programa com os bastidores do Sport Club do Recife.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130801041000 -0300" stop="20130801060000 -0300" channel="121" program_id="0000341691" event_id="" series_key="">
+<title lang="pt">VT - Premiere Internacional</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130801060000 -0300" stop="20130801080000 -0300" channel="121" program_id="0000341710" event_id="" series_key="">
+<title lang="pt">VT - Premiere TV Sport</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130801080000 -0300" stop="20130801083000 -0300" channel="121" program_id="0000331469" event_id="" series_key="">
+<title lang="pt">TV Sport</title>
+<desc>Programa com os bastidores do Sport Club do Recife.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130801083000 -0300" stop="20130801101500 -0300" channel="121" program_id="0000341675" event_id="" series_key="">
+<title lang="pt">VT - Premiere Botafogo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130801101500 -0300" stop="20130801120000 -0300" channel="121" program_id="0000341680" event_id="" series_key="">
+<title lang="pt">VT - Premiere Cruzeiro</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130801120000 -0300" stop="20130801134500 -0300" channel="121" program_id="0000341691" event_id="" series_key="">
+<title lang="pt">VT - Premiere Internacional</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130801134500 -0300" stop="20130801153000 -0300" channel="121" program_id="0000341710" event_id="" series_key="">
+<title lang="pt">VT - Premiere TV Sport</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130801153000 -0300" stop="20130801160000 -0300" channel="121" program_id="0000331469" event_id="" series_key="">
+<title lang="pt">TV Sport</title>
+<desc>Programa com os bastidores do Sport Club do Recife.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130801160000 -0300" stop="20130801180000 -0300" channel="121" program_id="0000341675" event_id="" series_key="">
+<title lang="pt">VT - Premiere Botafogo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130801180000 -0300" stop="20130801200000 -0300" channel="121" program_id="0000341698" event_id="" series_key="">
+<title lang="pt">VT - Premiere Pré Jogo Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130801200000 -0300" stop="20130801220000 -0300" channel="121" program_id="0000341689" event_id="" series_key="">
+<title lang="pt">VT - Premiere Grêmio</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130801220000 -0300" stop="20130802000000 -0300" channel="121" program_id="0000341699" event_id="" series_key="">
+<title lang="pt">VT - Premiere Santos</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130802000000 -0300" stop="20130802020000 -0300" channel="121" program_id="0000341686" event_id="" series_key="">
+<title lang="pt">VT - Premiere Fluminense</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130802020000 -0300" stop="20130802040000 -0300" channel="121" program_id="0000341689" event_id="" series_key="">
+<title lang="pt">VT - Premiere Grêmio</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130802040000 -0300" stop="20130802060000 -0300" channel="121" program_id="0000341699" event_id="" series_key="">
+<title lang="pt">VT - Premiere Santos</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130802060000 -0300" stop="20130802080000 -0300" channel="121" program_id="0000341686" event_id="" series_key="">
+<title lang="pt">VT - Premiere Fluminense</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130802080000 -0300" stop="20130802100000 -0300" channel="121" program_id="0000106060" event_id="" series_key="">
+<title lang="pt">VT - Goiás x Vasco</title>
+<title lang="en">VT - Goiás x Vasco</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130802100000 -0300" stop="20130802120000 -0300" channel="121" program_id="0000157491" event_id="" series_key="">
+<title lang="pt">VT - Botafogo x Vitória</title>
+<title lang="en">VT - Botafogo x Vitória</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130802120000 -0300" stop="20130802140000 -0300" channel="121" program_id="0000341689" event_id="" series_key="">
+<title lang="pt">VT - Premiere Grêmio</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130802140000 -0300" stop="20130802160000 -0300" channel="121" program_id="0000341699" event_id="" series_key="">
+<title lang="pt">VT - Premiere Santos</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130802160000 -0300" stop="20130802180000 -0300" channel="121" program_id="0000341686" event_id="" series_key="">
+<title lang="pt">VT - Premiere Fluminense</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130802180000 -0300" stop="20130802200000 -0300" channel="121" program_id="0000341673" event_id="" series_key="">
+<title lang="pt">VT - Premiere Atlético MG</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130802200000 -0300" stop="20130802220000 -0300" channel="121" program_id="0000341679" event_id="" series_key="">
+<title lang="pt">VT - Premiere Corinthians</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130802220000 -0300" stop="20130803000000 -0300" channel="121" program_id="0000341682" event_id="" series_key="">
+<title lang="pt">VT - Premiere Flamengo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130803000000 -0300" stop="20130803020000 -0300" channel="121" program_id="0000341711" event_id="" series_key="">
+<title lang="pt">VT - Premiere Vasco</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130803020000 -0300" stop="20130803040000 -0300" channel="121" program_id="0000341673" event_id="" series_key="">
+<title lang="pt">VT - Premiere Atlético MG</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130803040000 -0300" stop="20130803060000 -0300" channel="121" program_id="0000341679" event_id="" series_key="">
+<title lang="pt">VT - Premiere Corinthians</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130803060000 -0300" stop="20130803080000 -0300" channel="121" program_id="0000341682" event_id="" series_key="">
+<title lang="pt">VT - Premiere Flamengo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130803080000 -0300" stop="20130803100000 -0300" channel="121" program_id="0000341711" event_id="" series_key="">
+<title lang="pt">VT - Premiere Vasco</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130803100000 -0300" stop="20130803120000 -0300" channel="121" program_id="0000341679" event_id="" series_key="">
+<title lang="pt">VT - Premiere Corinthians</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130803120000 -0300" stop="20130803140000 -0300" channel="121" program_id="0000341682" event_id="" series_key="">
+<title lang="pt">VT - Premiere Flamengo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130803140000 -0300" stop="20130803143000 -0300" channel="121" program_id="0000341729" event_id="" series_key="">
+<title lang="pt">Nação Coxa Branca - Coritiba</title>
+<desc>Nação Coxa Branca - Programa oficial do Coritiba Foot Ball Club com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130803143000 -0300" stop="20130803163000 -0300" channel="121" program_id="0000341673" event_id="" series_key="">
+<title lang="pt">VT - Premiere Atlético MG</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130803163000 -0300" stop="20130803183000 -0300" channel="121" program_id="0000341698" event_id="" series_key="">
+<title lang="pt">VT - Premiere Pré Jogo Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130803183000 -0300" stop="20130803190000 -0300" channel="121" program_id="0000320579" event_id="" series_key="">
+<title lang="pt">Vitória na TV</title>
+<desc>Programa com os bastidores do Esporte Clube Vitória.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130803190000 -0300" stop="20130803210000 -0300" channel="121" program_id="0000101484" event_id="" series_key="">
+<title lang="pt">VT - Palmeiras x Bragantino</title>
+<title lang="en">VT - Palmeiras x Bragantino</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130803210000 -0300" stop="20130803230000 -0300" channel="121" program_id="0000341714" event_id="" series_key="">
+<title lang="pt">VT - Sport x Chapecoense</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130803230000 -0300" stop="20130804000000 -0300" channel="121" program_id="0000341732" event_id="" series_key="">
+<title lang="pt">Camarote - Ponte Preta - Márcio Della Volpe</title>
+<desc>Camarote Fc - Jorge Luiz Rodrigues recebe o presidente da Ponte Preta, Márcio Della Volpe, para responder a perguntas enviadas pelos assinantes, através do site do canal.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130804000000 -0300" stop="20130804020000 -0300" channel="121" program_id="0000190371" event_id="" series_key="">
+<title lang="pt">VT - Cruzeiro x Coritiba</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130804020000 -0300" stop="20130804040000 -0300" channel="121" program_id="0000194095" event_id="" series_key="">
+<title lang="pt">VT - Joinville x Figueirense</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130804040000 -0300" stop="20130804060000 -0300" channel="121" program_id="0000221779" event_id="" series_key="">
+<title lang="pt">VT - Icasa x São Caetano</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130804060000 -0300" stop="20130804080000 -0300" channel="121" program_id="0000192414" event_id="" series_key="">
+<title lang="pt">VT - Atlético GO x Paraná</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130804080000 -0300" stop="20130804100000 -0300" channel="121" program_id="0000101484" event_id="" series_key="">
+<title lang="pt">VT - Palmeiras x Bragantino</title>
+<title lang="en">VT - Palmeiras x Bragantino</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130804100000 -0300" stop="20130804120000 -0300" channel="121" program_id="0000190371" event_id="" series_key="">
+<title lang="pt">VT - Cruzeiro x Coritiba</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130804120000 -0300" stop="20130804140000 -0300" channel="121" program_id="0000341686" event_id="" series_key="">
+<title lang="pt">VT - Premiere Fluminense</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130804140000 -0300" stop="20130804160000 -0300" channel="121" program_id="0000334850" event_id="" series_key="">
+<title lang="pt">VT - Votação Facebook</title>
+<desc>Votação Facebook</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130804160000 -0300" stop="20130804163000 -0300" channel="121" program_id="0000322898" event_id="" series_key="">
+<title lang="pt">CAP TV</title>
+<desc>Programa oficial do Clube Atlético Paranaense com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130804163000 -0300" stop="20130804183000 -0300" channel="121" program_id="0000341711" event_id="" series_key="">
+<title lang="pt">VT - Premiere Vasco</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130804183000 -0300" stop="20130804190000 -0300" channel="121" program_id="0000331469" event_id="" series_key="">
+<title lang="pt">TV Sport</title>
+<desc>Programa com os bastidores do Sport Club do Recife.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130804190000 -0300" stop="20130804193000 -0300" channel="121" program_id="0000341729" event_id="" series_key="">
+<title lang="pt">Nação Coxa Branca - Coritiba</title>
+<desc>Nação Coxa Branca - Programa oficial do Coritiba Foot Ball Club com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130804193000 -0300" stop="20130804200000 -0300" channel="121" program_id="0000320579" event_id="" series_key="">
+<title lang="pt">Vitória na TV</title>
+<desc>Programa com os bastidores do Esporte Clube Vitória.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130804200000 -0300" stop="20130804203000 -0300" channel="121" program_id="0000322898" event_id="" series_key="">
+<title lang="pt">CAP TV</title>
+<desc>Programa oficial do Clube Atlético Paranaense com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130804203000 -0300" stop="20130804210000 -0300" channel="121" program_id="0000331470" event_id="" series_key="">
+<title lang="pt">GO - Programa Oficial do Goiás Esporte Clube</title>
+<desc>Programa oficial do Goiás Esporte Clube com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130804210000 -0300" stop="20130804220000 -0300" channel="121" program_id="0000341732" event_id="" series_key="">
+<title lang="pt">Camarote - Ponte Preta - Márcio Della Volpe</title>
+<desc>Camarote Fc - Jorge Luiz Rodrigues recebe o presidente da Ponte Preta, Márcio Della Volpe, para responder a perguntas enviadas pelos assinantes, através do site do canal.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130804220000 -0300" stop="20130805000000 -0300" channel="121" program_id="0000157302" event_id="" series_key="">
+<title lang="pt">VT - Flamengo x Atlético MG</title>
+<title lang="en">VT - Flamengo x Atlético MG</title>
+<desc>Sinopse Não disponível.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130805000000 -0300" stop="20130805020000 -0300" channel="121" program_id="0000159274" event_id="" series_key="">
+<title lang="pt">VT - Criciúma x Corinthians</title>
+<title lang="en">VT - Criciúma x Corinthians</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130805020000 -0300" stop="20130805040000 -0300" channel="121" program_id="0000106358" event_id="" series_key="">
+<title lang="pt">VT - Atlético PR x Goiás</title>
+<title lang="en">VT - Atlético PR x Goiás</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130805040000 -0300" stop="20130805060000 -0300" channel="121" program_id="0000246708" event_id="" series_key="">
+<title lang="pt">VT - Vitória x Portuguesa</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130805060000 -0300" stop="20130805080000 -0300" channel="121" program_id="0000034765" event_id="" series_key="">
+<title lang="pt">VT - Ponte Preta x Fluminense</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130805080000 -0300" stop="20130805100000 -0300" channel="121" program_id="0000012643" event_id="" series_key="">
+<title lang="pt">VT - Grêmio x Internacional</title>
+<title lang="en">VT - Grêmio x Internacional</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130805100000 -0300" stop="20130805120000 -0300" channel="121" program_id="0000004042" event_id="" series_key="">
+<title lang="pt">VT - Vasco x Botafogo</title>
+<title lang="en">Vasco x Botafogo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130805120000 -0300" stop="20130805140000 -0300" channel="121" program_id="0000157302" event_id="" series_key="">
+<title lang="pt">VT - Flamengo x Atlético MG</title>
+<title lang="en">VT - Flamengo x Atlético MG</title>
+<desc>Sinopse Não disponível.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130805140000 -0300" stop="20130805160000 -0300" channel="121" program_id="0000159274" event_id="" series_key="">
+<title lang="pt">VT - Criciúma x Corinthians</title>
+<title lang="en">VT - Criciúma x Corinthians</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130805160000 -0300" stop="20130805180000 -0300" channel="121" program_id="0000034765" event_id="" series_key="">
+<title lang="pt">VT - Ponte Preta x Fluminense</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130805180000 -0300" stop="20130805200000 -0300" channel="121" program_id="0000341701" event_id="" series_key="">
+<title lang="pt">VT - Premiere São Paulo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130805200000 -0300" stop="20130805220000 -0300" channel="121" program_id="0000341694" event_id="" series_key="">
+<title lang="pt">VT - Premiere Nação Coxa Branca</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130805220000 -0300" stop="20130805223000 -0300" channel="121" program_id="0000341729" event_id="" series_key="">
+<title lang="pt">Nação Coxa Branca - Coritiba</title>
+<desc>Nação Coxa Branca - Programa oficial do Coritiba Foot Ball Club com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130805223000 -0300" stop="20130805230000 -0300" channel="121" program_id="0000320579" event_id="" series_key="">
+<title lang="pt">Vitória na TV</title>
+<desc>Programa com os bastidores do Esporte Clube Vitória.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130805230000 -0300" stop="20130806010000 -0300" channel="121" program_id="0000341713" event_id="" series_key="">
+<title lang="pt">VT - Premiere Vitória na TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130806010000 -0300" stop="20130806030000 -0300" channel="121" program_id="0000341694" event_id="" series_key="">
+<title lang="pt">VT - Premiere Nação Coxa Branca</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130806030000 -0300" stop="20130806033000 -0300" channel="121" program_id="0000341729" event_id="" series_key="">
+<title lang="pt">Nação Coxa Branca - Coritiba</title>
+<desc>Nação Coxa Branca - Programa oficial do Coritiba Foot Ball Club com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130806033000 -0300" stop="20130806040000 -0300" channel="121" program_id="0000320579" event_id="" series_key="">
+<title lang="pt">Vitória na TV</title>
+<desc>Programa com os bastidores do Esporte Clube Vitória.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130806040000 -0300" stop="20130806060000 -0300" channel="121" program_id="0000341713" event_id="" series_key="">
+<title lang="pt">VT - Premiere Vitória na TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130806060000 -0300" stop="20130806080000 -0300" channel="121" program_id="0000341694" event_id="" series_key="">
+<title lang="pt">VT - Premiere Nação Coxa Branca</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130806080000 -0300" stop="20130806083000 -0300" channel="121" program_id="0000341729" event_id="" series_key="">
+<title lang="pt">Nação Coxa Branca - Coritiba</title>
+<desc>Nação Coxa Branca - Programa oficial do Coritiba Foot Ball Club com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130806083000 -0300" stop="20130806090000 -0300" channel="121" program_id="0000320579" event_id="" series_key="">
+<title lang="pt">Vitória na TV</title>
+<desc>Programa com os bastidores do Esporte Clube Vitória.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130806090000 -0300" stop="20130806110000 -0300" channel="121" program_id="0000341713" event_id="" series_key="">
+<title lang="pt">VT - Premiere Vitória na TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130806110000 -0300" stop="20130806130000 -0300" channel="121" program_id="0000341701" event_id="" series_key="">
+<title lang="pt">VT - Premiere São Paulo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130806130000 -0300" stop="20130806150000 -0300" channel="121" program_id="0000341694" event_id="" series_key="">
+<title lang="pt">VT - Premiere Nação Coxa Branca</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130806150000 -0300" stop="20130806153000 -0300" channel="121" program_id="0000341729" event_id="" series_key="">
+<title lang="pt">Nação Coxa Branca - Coritiba</title>
+<desc>Nação Coxa Branca - Programa oficial do Coritiba Foot Ball Club com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130806153000 -0300" stop="20130806160000 -0300" channel="121" program_id="0000320579" event_id="" series_key="">
+<title lang="pt">Vitória na TV</title>
+<desc>Programa com os bastidores do Esporte Clube Vitória.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130806160000 -0300" stop="20130806180000 -0300" channel="121" program_id="0000341713" event_id="" series_key="">
+<title lang="pt">VT - Premiere Vitória na TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130806180000 -0300" stop="20130806200000 -0300" channel="121" program_id="0000341696" event_id="" series_key="">
+<title lang="pt">VT - Premiere Palmeiras</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130806200000 -0300" stop="20130806220000 -0300" channel="121" program_id="0000341678" event_id="" series_key="">
+<title lang="pt">VT - Premiere Cap TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130806220000 -0300" stop="20130806223000 -0300" channel="121" program_id="0000322898" event_id="" series_key="">
+<title lang="pt">CAP TV</title>
+<desc>Programa oficial do Clube Atlético Paranaense com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130806223000 -0300" stop="20130806230000 -0300" channel="121" program_id="0000331470" event_id="" series_key="">
+<title lang="pt">GO - Programa Oficial do Goiás Esporte Clube</title>
+<desc>Programa oficial do Goiás Esporte Clube com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130806230000 -0300" stop="20130807010000 -0300" channel="121" program_id="0000341688" event_id="" series_key="">
+<title lang="pt">VT - Premiere GO</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130807010000 -0300" stop="20130807030000 -0300" channel="121" program_id="0000341678" event_id="" series_key="">
+<title lang="pt">VT - Premiere Cap TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130807030000 -0300" stop="20130807033000 -0300" channel="121" program_id="0000322898" event_id="" series_key="">
+<title lang="pt">CAP TV</title>
+<desc>Programa oficial do Clube Atlético Paranaense com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130807033000 -0300" stop="20130807040000 -0300" channel="121" program_id="0000331470" event_id="" series_key="">
+<title lang="pt">GO - Programa Oficial do Goiás Esporte Clube</title>
+<desc>Programa oficial do Goiás Esporte Clube com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130807040000 -0300" stop="20130807060000 -0300" channel="121" program_id="0000341688" event_id="" series_key="">
+<title lang="pt">VT - Premiere GO</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130807060000 -0300" stop="20130807080000 -0300" channel="121" program_id="0000341678" event_id="" series_key="">
+<title lang="pt">VT - Premiere Cap TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130807080000 -0300" stop="20130807083000 -0300" channel="121" program_id="0000322898" event_id="" series_key="">
+<title lang="pt">CAP TV</title>
+<desc>Programa oficial do Clube Atlético Paranaense com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130807083000 -0300" stop="20130807090000 -0300" channel="121" program_id="0000331470" event_id="" series_key="">
+<title lang="pt">GO - Programa Oficial do Goiás Esporte Clube</title>
+<desc>Programa oficial do Goiás Esporte Clube com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130807090000 -0300" stop="20130807110000 -0300" channel="121" program_id="0000341688" event_id="" series_key="">
+<title lang="pt">VT - Premiere GO</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130807110000 -0300" stop="20130807130000 -0300" channel="121" program_id="0000341696" event_id="" series_key="">
+<title lang="pt">VT - Premiere Palmeiras</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130807130000 -0300" stop="20130807150000 -0300" channel="121" program_id="0000341678" event_id="" series_key="">
+<title lang="pt">VT - Premiere Cap TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130807150000 -0300" stop="20130807153000 -0300" channel="121" program_id="0000322898" event_id="" series_key="">
+<title lang="pt">CAP TV</title>
+<desc>Programa oficial do Clube Atlético Paranaense com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130807153000 -0300" stop="20130807160000 -0300" channel="121" program_id="0000331470" event_id="" series_key="">
+<title lang="pt">GO - Programa Oficial do Goiás Esporte Clube</title>
+<desc>Programa oficial do Goiás Esporte Clube com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130807160000 -0300" stop="20130807180000 -0300" channel="121" program_id="0000341688" event_id="" series_key="">
+<title lang="pt">VT - Premiere GO</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130807180000 -0300" stop="20130807200000 -0300" channel="121" program_id="0000341691" event_id="" series_key="">
+<title lang="pt">VT - Premiere Internacional</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130807200000 -0300" stop="20130807220000 -0300" channel="121" program_id="0000341710" event_id="" series_key="">
+<title lang="pt">VT - Premiere TV Sport</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130807220000 -0300" stop="20130807223000 -0300" channel="121" program_id="0000331469" event_id="" series_key="">
+<title lang="pt">TV Sport</title>
+<desc>Programa com os bastidores do Sport Club do Recife.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130807223000 -0300" stop="20130808001500 -0300" channel="121" program_id="0000341675" event_id="" series_key="">
+<title lang="pt">VT - Premiere Botafogo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130808001500 -0300" stop="20130808015500 -0300" channel="121" program_id="0000341680" event_id="" series_key="">
+<title lang="pt">VT - Premiere Cruzeiro</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130808015500 -0300" stop="20130808034000 -0300" channel="121" program_id="0000341710" event_id="" series_key="">
+<title lang="pt">VT - Premiere TV Sport</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130808034000 -0300" stop="20130808041000 -0300" channel="121" program_id="0000331469" event_id="" series_key="">
+<title lang="pt">TV Sport</title>
+<desc>Programa com os bastidores do Sport Club do Recife.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130808041000 -0300" stop="20130808060000 -0300" channel="121" program_id="0000341691" event_id="" series_key="">
+<title lang="pt">VT - Premiere Internacional</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130808060000 -0300" stop="20130808080000 -0300" channel="121" program_id="0000341710" event_id="" series_key="">
+<title lang="pt">VT - Premiere TV Sport</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130808080000 -0300" stop="20130808083000 -0300" channel="121" program_id="0000331469" event_id="" series_key="">
+<title lang="pt">TV Sport</title>
+<desc>Programa com os bastidores do Sport Club do Recife.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130808083000 -0300" stop="20130808101500 -0300" channel="121" program_id="0000341675" event_id="" series_key="">
+<title lang="pt">VT - Premiere Botafogo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130808101500 -0300" stop="20130808120000 -0300" channel="121" program_id="0000341680" event_id="" series_key="">
+<title lang="pt">VT - Premiere Cruzeiro</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130808120000 -0300" stop="20130808134500 -0300" channel="121" program_id="0000341691" event_id="" series_key="">
+<title lang="pt">VT - Premiere Internacional</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130808134500 -0300" stop="20130808153000 -0300" channel="121" program_id="0000341710" event_id="" series_key="">
+<title lang="pt">VT - Premiere TV Sport</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130808153000 -0300" stop="20130808160000 -0300" channel="121" program_id="0000331469" event_id="" series_key="">
+<title lang="pt">TV Sport</title>
+<desc>Programa com os bastidores do Sport Club do Recife.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130808160000 -0300" stop="20130808180000 -0300" channel="121" program_id="0000341675" event_id="" series_key="">
+<title lang="pt">VT - Premiere Botafogo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130808180000 -0300" stop="20130808200000 -0300" channel="121" program_id="0000343529" event_id="" series_key="">
+<title lang="pt">VT - Premiere Bahia</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130808200000 -0300" stop="20130808220000 -0300" channel="121" program_id="0000341689" event_id="" series_key="">
+<title lang="pt">VT - Premiere Grêmio</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130808220000 -0300" stop="20130809000000 -0300" channel="121" program_id="0000341699" event_id="" series_key="">
+<title lang="pt">VT - Premiere Santos</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130809000000 -0300" stop="20130809020000 -0300" channel="121" program_id="0000341686" event_id="" series_key="">
+<title lang="pt">VT - Premiere Fluminense</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130809020000 -0300" stop="20130809035500 -0300" channel="121" program_id="0000343529" event_id="" series_key="">
+<title lang="pt">VT - Premiere Bahia</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130809035500 -0300" stop="20130809060000 -0300" channel="121" program_id="0000341689" event_id="" series_key="">
+<title lang="pt">VT - Premiere Grêmio</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130809060000 -0300" stop="20130809080000 -0300" channel="121" program_id="0000341699" event_id="" series_key="">
+<title lang="pt">VT - Premiere Santos</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130809080000 -0300" stop="20130809100000 -0300" channel="121" program_id="0000341686" event_id="" series_key="">
+<title lang="pt">VT - Premiere Fluminense</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130809100000 -0300" stop="20130809120000 -0300" channel="121" program_id="0000343529" event_id="" series_key="">
+<title lang="pt">VT - Premiere Bahia</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130809120000 -0300" stop="20130809140000 -0300" channel="121" program_id="0000341689" event_id="" series_key="">
+<title lang="pt">VT - Premiere Grêmio</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130809140000 -0300" stop="20130809160000 -0300" channel="121" program_id="0000341699" event_id="" series_key="">
+<title lang="pt">VT - Premiere Santos</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130809160000 -0300" stop="20130809180000 -0300" channel="121" program_id="0000341686" event_id="" series_key="">
+<title lang="pt">VT - Premiere Fluminense</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130809180000 -0300" stop="20130809200000 -0300" channel="121" program_id="0000341673" event_id="" series_key="">
+<title lang="pt">VT - Premiere Atlético MG</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130809200000 -0300" stop="20130809220000 -0300" channel="121" program_id="0000341679" event_id="" series_key="">
+<title lang="pt">VT - Premiere Corinthians</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130809220000 -0300" stop="20130810000000 -0300" channel="121" program_id="0000341682" event_id="" series_key="">
+<title lang="pt">VT - Premiere Flamengo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130810000000 -0300" stop="20130810020000 -0300" channel="121" program_id="0000341711" event_id="" series_key="">
+<title lang="pt">VT - Premiere Vasco</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130810020000 -0300" stop="20130810040000 -0300" channel="121" program_id="0000341673" event_id="" series_key="">
+<title lang="pt">VT - Premiere Atlético MG</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130810040000 -0300" stop="20130810060000 -0300" channel="121" program_id="0000341679" event_id="" series_key="">
+<title lang="pt">VT - Premiere Corinthians</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130810060000 -0300" stop="20130810080000 -0300" channel="121" program_id="0000341682" event_id="" series_key="">
+<title lang="pt">VT - Premiere Flamengo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130810080000 -0300" stop="20130810100000 -0300" channel="121" program_id="0000341711" event_id="" series_key="">
+<title lang="pt">VT - Premiere Vasco</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130810100000 -0300" stop="20130810120000 -0300" channel="121" program_id="0000341679" event_id="" series_key="">
+<title lang="pt">VT - Premiere Corinthians</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130810120000 -0300" stop="20130810140000 -0300" channel="121" program_id="0000341682" event_id="" series_key="">
+<title lang="pt">VT - Premiere Flamengo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130810140000 -0300" stop="20130810143000 -0300" channel="121" program_id="0000341729" event_id="" series_key="">
+<title lang="pt">Nação Coxa Branca - Coritiba</title>
+<desc>Nação Coxa Branca - Programa oficial do Coritiba Foot Ball Club com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130810143000 -0300" stop="20130810163000 -0300" channel="121" program_id="0000341698" event_id="" series_key="">
+<title lang="pt">VT - Premiere Pré Jogo Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130810163000 -0300" stop="20130810183000 -0300" channel="121" program_id="0000341698" event_id="" series_key="">
+<title lang="pt">VT - Premiere Pré Jogo Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130810183000 -0300" stop="20130810190000 -0300" channel="121" program_id="0000320579" event_id="" series_key="">
+<title lang="pt">Vitória na TV</title>
+<desc>Programa com os bastidores do Esporte Clube Vitória.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130810190000 -0300" stop="20130810210000 -0300" channel="121" program_id="0000341698" event_id="" series_key="">
+<title lang="pt">VT - Premiere Pré Jogo Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130810210000 -0300" stop="20130810230000 -0300" channel="121" program_id="0000341717" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série B</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130810230000 -0300" stop="20130811000000 -0300" channel="121" program_id="0000267684" event_id="" series_key="">
+<title lang="pt">Camarote FC</title>
+<desc>Jorge Luiz Rodrigues recebe presidentes dos principais clubes brasileiros de futebol para responder perguntas enviadas pelos assinantes, através do site do canal.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130811000000 -0300" stop="20130811020000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130811020000 -0300" stop="20130811040000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130811040000 -0300" stop="20130811060000 -0300" channel="121" program_id="0000341717" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série B</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130811060000 -0300" stop="20130811080000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130811080000 -0300" stop="20130811100000 -0300" channel="121" program_id="0000341717" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série B</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130811100000 -0300" stop="20130811120000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130811120000 -0300" stop="20130811140000 -0300" channel="121" program_id="0000334850" event_id="" series_key="">
+<title lang="pt">VT - Votação Facebook</title>
+<desc>Votação Facebook</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130811140000 -0300" stop="20130811160000 -0300" channel="121" program_id="0000334850" event_id="" series_key="">
+<title lang="pt">VT - Votação Facebook</title>
+<desc>Votação Facebook</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130811160000 -0300" stop="20130811163000 -0300" channel="121" program_id="0000322898" event_id="" series_key="">
+<title lang="pt">CAP TV</title>
+<desc>Programa oficial do Clube Atlético Paranaense com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130811163000 -0300" stop="20130811183000 -0300" channel="121" program_id="0000341698" event_id="" series_key="">
+<title lang="pt">VT - Premiere Pré Jogo Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130811183000 -0300" stop="20130811190000 -0300" channel="121" program_id="0000331469" event_id="" series_key="">
+<title lang="pt">TV Sport</title>
+<desc>Programa com os bastidores do Sport Club do Recife.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130811190000 -0300" stop="20130811193000 -0300" channel="121" program_id="0000341729" event_id="" series_key="">
+<title lang="pt">Nação Coxa Branca - Coritiba</title>
+<desc>Nação Coxa Branca - Programa oficial do Coritiba Foot Ball Club com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130811193000 -0300" stop="20130811200000 -0300" channel="121" program_id="0000320579" event_id="" series_key="">
+<title lang="pt">Vitória na TV</title>
+<desc>Programa com os bastidores do Esporte Clube Vitória.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130811200000 -0300" stop="20130811203000 -0300" channel="121" program_id="0000322898" event_id="" series_key="">
+<title lang="pt">CAP TV</title>
+<desc>Programa oficial do Clube Atlético Paranaense com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130811203000 -0300" stop="20130811210000 -0300" channel="121" program_id="0000331470" event_id="" series_key="">
+<title lang="pt">GO - Programa Oficial do Goiás Esporte Clube</title>
+<desc>Programa oficial do Goiás Esporte Clube com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130811210000 -0300" stop="20130811220000 -0300" channel="121" program_id="0000267684" event_id="" series_key="">
+<title lang="pt">Camarote FC</title>
+<desc>Jorge Luiz Rodrigues recebe presidentes dos principais clubes brasileiros de futebol para responder perguntas enviadas pelos assinantes, através do site do canal.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130811220000 -0300" stop="20130812000000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130812000000 -0300" stop="20130812020000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130812020000 -0300" stop="20130812040000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130812040000 -0300" stop="20130812060000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130812060000 -0300" stop="20130812080000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130812080000 -0300" stop="20130812100000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130812100000 -0300" stop="20130812120000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130812120000 -0300" stop="20130812140000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130812140000 -0300" stop="20130812160000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130812160000 -0300" stop="20130812180000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130812180000 -0300" stop="20130812200000 -0300" channel="121" program_id="0000341701" event_id="" series_key="">
+<title lang="pt">VT - Premiere São Paulo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130812200000 -0300" stop="20130812220000 -0300" channel="121" program_id="0000341694" event_id="" series_key="">
+<title lang="pt">VT - Premiere Nação Coxa Branca</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130812220000 -0300" stop="20130812223000 -0300" channel="121" program_id="0000341729" event_id="" series_key="">
+<title lang="pt">Nação Coxa Branca - Coritiba</title>
+<desc>Nação Coxa Branca - Programa oficial do Coritiba Foot Ball Club com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130812223000 -0300" stop="20130812230000 -0300" channel="121" program_id="0000320579" event_id="" series_key="">
+<title lang="pt">Vitória na TV</title>
+<desc>Programa com os bastidores do Esporte Clube Vitória.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130812230000 -0300" stop="20130813010000 -0300" channel="121" program_id="0000341713" event_id="" series_key="">
+<title lang="pt">VT - Premiere Vitória na TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130813010000 -0300" stop="20130813030000 -0300" channel="121" program_id="0000341694" event_id="" series_key="">
+<title lang="pt">VT - Premiere Nação Coxa Branca</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130813030000 -0300" stop="20130813033000 -0300" channel="121" program_id="0000341729" event_id="" series_key="">
+<title lang="pt">Nação Coxa Branca - Coritiba</title>
+<desc>Nação Coxa Branca - Programa oficial do Coritiba Foot Ball Club com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130813033000 -0300" stop="20130813040000 -0300" channel="121" program_id="0000320579" event_id="" series_key="">
+<title lang="pt">Vitória na TV</title>
+<desc>Programa com os bastidores do Esporte Clube Vitória.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130813040000 -0300" stop="20130813060000 -0300" channel="121" program_id="0000341713" event_id="" series_key="">
+<title lang="pt">VT - Premiere Vitória na TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130813060000 -0300" stop="20130813080000 -0300" channel="121" program_id="0000341694" event_id="" series_key="">
+<title lang="pt">VT - Premiere Nação Coxa Branca</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130813080000 -0300" stop="20130813083000 -0300" channel="121" program_id="0000341729" event_id="" series_key="">
+<title lang="pt">Nação Coxa Branca - Coritiba</title>
+<desc>Nação Coxa Branca - Programa oficial do Coritiba Foot Ball Club com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130813083000 -0300" stop="20130813090000 -0300" channel="121" program_id="0000320579" event_id="" series_key="">
+<title lang="pt">Vitória na TV</title>
+<desc>Programa com os bastidores do Esporte Clube Vitória.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130813090000 -0300" stop="20130813110000 -0300" channel="121" program_id="0000341713" event_id="" series_key="">
+<title lang="pt">VT - Premiere Vitória na TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130813110000 -0300" stop="20130813130000 -0300" channel="121" program_id="0000341701" event_id="" series_key="">
+<title lang="pt">VT - Premiere São Paulo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130813130000 -0300" stop="20130813150000 -0300" channel="121" program_id="0000341694" event_id="" series_key="">
+<title lang="pt">VT - Premiere Nação Coxa Branca</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130813150000 -0300" stop="20130813153000 -0300" channel="121" program_id="0000341729" event_id="" series_key="">
+<title lang="pt">Nação Coxa Branca - Coritiba</title>
+<desc>Nação Coxa Branca - Programa oficial do Coritiba Foot Ball Club com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130813153000 -0300" stop="20130813160000 -0300" channel="121" program_id="0000320579" event_id="" series_key="">
+<title lang="pt">Vitória na TV</title>
+<desc>Programa com os bastidores do Esporte Clube Vitória.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130813160000 -0300" stop="20130813180000 -0300" channel="121" program_id="0000341713" event_id="" series_key="">
+<title lang="pt">VT - Premiere Vitória na TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130813180000 -0300" stop="20130813200000 -0300" channel="121" program_id="0000341696" event_id="" series_key="">
+<title lang="pt">VT - Premiere Palmeiras</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130813200000 -0300" stop="20130813220000 -0300" channel="121" program_id="0000341678" event_id="" series_key="">
+<title lang="pt">VT - Premiere Cap TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130813220000 -0300" stop="20130813223000 -0300" channel="121" program_id="0000322898" event_id="" series_key="">
+<title lang="pt">CAP TV</title>
+<desc>Programa oficial do Clube Atlético Paranaense com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130813223000 -0300" stop="20130813230000 -0300" channel="121" program_id="0000331470" event_id="" series_key="">
+<title lang="pt">GO - Programa Oficial do Goiás Esporte Clube</title>
+<desc>Programa oficial do Goiás Esporte Clube com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130813230000 -0300" stop="20130814010000 -0300" channel="121" program_id="0000341688" event_id="" series_key="">
+<title lang="pt">VT - Premiere GO</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130814010000 -0300" stop="20130814030000 -0300" channel="121" program_id="0000341678" event_id="" series_key="">
+<title lang="pt">VT - Premiere Cap TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130814030000 -0300" stop="20130814033000 -0300" channel="121" program_id="0000322898" event_id="" series_key="">
+<title lang="pt">CAP TV</title>
+<desc>Programa oficial do Clube Atlético Paranaense com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130814033000 -0300" stop="20130814040000 -0300" channel="121" program_id="0000331470" event_id="" series_key="">
+<title lang="pt">GO - Programa Oficial do Goiás Esporte Clube</title>
+<desc>Programa oficial do Goiás Esporte Clube com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130814040000 -0300" stop="20130814060000 -0300" channel="121" program_id="0000341688" event_id="" series_key="">
+<title lang="pt">VT - Premiere GO</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130814060000 -0300" stop="20130814080000 -0300" channel="121" program_id="0000341678" event_id="" series_key="">
+<title lang="pt">VT - Premiere Cap TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130814080000 -0300" stop="20130814083000 -0300" channel="121" program_id="0000322898" event_id="" series_key="">
+<title lang="pt">CAP TV</title>
+<desc>Programa oficial do Clube Atlético Paranaense com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130814083000 -0300" stop="20130814090000 -0300" channel="121" program_id="0000331470" event_id="" series_key="">
+<title lang="pt">GO - Programa Oficial do Goiás Esporte Clube</title>
+<desc>Programa oficial do Goiás Esporte Clube com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130814090000 -0300" stop="20130814110000 -0300" channel="121" program_id="0000341688" event_id="" series_key="">
+<title lang="pt">VT - Premiere GO</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130814110000 -0300" stop="20130814130000 -0300" channel="121" program_id="0000341696" event_id="" series_key="">
+<title lang="pt">VT - Premiere Palmeiras</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130814130000 -0300" stop="20130814150000 -0300" channel="121" program_id="0000341678" event_id="" series_key="">
+<title lang="pt">VT - Premiere Cap TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130814150000 -0300" stop="20130814153000 -0300" channel="121" program_id="0000322898" event_id="" series_key="">
+<title lang="pt">CAP TV</title>
+<desc>Programa oficial do Clube Atlético Paranaense com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130814153000 -0300" stop="20130814160000 -0300" channel="121" program_id="0000331470" event_id="" series_key="">
+<title lang="pt">GO - Programa Oficial do Goiás Esporte Clube</title>
+<desc>Programa oficial do Goiás Esporte Clube com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130814160000 -0300" stop="20130814180000 -0300" channel="121" program_id="0000341688" event_id="" series_key="">
+<title lang="pt">VT - Premiere GO</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130814180000 -0300" stop="20130814200000 -0300" channel="121" program_id="0000341691" event_id="" series_key="">
+<title lang="pt">VT - Premiere Internacional</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130814200000 -0300" stop="20130814220000 -0300" channel="121" program_id="0000341710" event_id="" series_key="">
+<title lang="pt">VT - Premiere TV Sport</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130814220000 -0300" stop="20130814223000 -0300" channel="121" program_id="0000331469" event_id="" series_key="">
+<title lang="pt">TV Sport</title>
+<desc>Programa com os bastidores do Sport Club do Recife.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130814223000 -0300" stop="20130815001000 -0300" channel="121" program_id="0000341675" event_id="" series_key="">
+<title lang="pt">VT - Premiere Botafogo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130815001000 -0300" stop="20130815015000 -0300" channel="121" program_id="0000341680" event_id="" series_key="">
+<title lang="pt">VT - Premiere Cruzeiro</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130815015000 -0300" stop="20130815033000 -0300" channel="121" program_id="0000341710" event_id="" series_key="">
+<title lang="pt">VT - Premiere TV Sport</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130815033000 -0300" stop="20130815040000 -0300" channel="121" program_id="0000331469" event_id="" series_key="">
+<title lang="pt">TV Sport</title>
+<desc>Programa com os bastidores do Sport Club do Recife.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130815040000 -0300" stop="20130815060000 -0300" channel="121" program_id="0000341691" event_id="" series_key="">
+<title lang="pt">VT - Premiere Internacional</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130815060000 -0300" stop="20130815080000 -0300" channel="121" program_id="0000341710" event_id="" series_key="">
+<title lang="pt">VT - Premiere TV Sport</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130815080000 -0300" stop="20130815083000 -0300" channel="121" program_id="0000331469" event_id="" series_key="">
+<title lang="pt">TV Sport</title>
+<desc>Programa com os bastidores do Sport Club do Recife.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130815083000 -0300" stop="20130815101500 -0300" channel="121" program_id="0000341675" event_id="" series_key="">
+<title lang="pt">VT - Premiere Botafogo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130815101500 -0300" stop="20130815115500 -0300" channel="121" program_id="0000341680" event_id="" series_key="">
+<title lang="pt">VT - Premiere Cruzeiro</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130815115500 -0300" stop="20130815134000 -0300" channel="121" program_id="0000341691" event_id="" series_key="">
+<title lang="pt">VT - Premiere Internacional</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130815134000 -0300" stop="20130815153000 -0300" channel="121" program_id="0000341710" event_id="" series_key="">
+<title lang="pt">VT - Premiere TV Sport</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130815153000 -0300" stop="20130815160000 -0300" channel="121" program_id="0000331469" event_id="" series_key="">
+<title lang="pt">TV Sport</title>
+<desc>Programa com os bastidores do Sport Club do Recife.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130815160000 -0300" stop="20130815180000 -0300" channel="121" program_id="0000341675" event_id="" series_key="">
+<title lang="pt">VT - Premiere Botafogo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130815180000 -0300" stop="20130815200000 -0300" channel="121" program_id="0000343529" event_id="" series_key="">
+<title lang="pt">VT - Premiere Bahia</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130815200000 -0300" stop="20130815220000 -0300" channel="121" program_id="0000341689" event_id="" series_key="">
+<title lang="pt">VT - Premiere Grêmio</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130815220000 -0300" stop="20130816000000 -0300" channel="121" program_id="0000341699" event_id="" series_key="">
+<title lang="pt">VT - Premiere Santos</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130816000000 -0300" stop="20130816020000 -0300" channel="121" program_id="0000341686" event_id="" series_key="">
+<title lang="pt">VT - Premiere Fluminense</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130816020000 -0300" stop="20130816040000 -0300" channel="121" program_id="0000343529" event_id="" series_key="">
+<title lang="pt">VT - Premiere Bahia</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130816040000 -0300" stop="20130816060000 -0300" channel="121" program_id="0000341699" event_id="" series_key="">
+<title lang="pt">VT - Premiere Santos</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130816060000 -0300" stop="20130816080000 -0300" channel="121" program_id="0000341686" event_id="" series_key="">
+<title lang="pt">VT - Premiere Fluminense</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130816080000 -0300" stop="20130816100000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130816100000 -0300" stop="20130816120000 -0300" channel="121" program_id="0000343529" event_id="" series_key="">
+<title lang="pt">VT - Premiere Bahia</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130816120000 -0300" stop="20130816140000 -0300" channel="121" program_id="0000341689" event_id="" series_key="">
+<title lang="pt">VT - Premiere Grêmio</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130816140000 -0300" stop="20130816160000 -0300" channel="121" program_id="0000341699" event_id="" series_key="">
+<title lang="pt">VT - Premiere Santos</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130816160000 -0300" stop="20130816180000 -0300" channel="121" program_id="0000341686" event_id="" series_key="">
+<title lang="pt">VT - Premiere Fluminense</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130816180000 -0300" stop="20130816200000 -0300" channel="121" program_id="0000341673" event_id="" series_key="">
+<title lang="pt">VT - Premiere Atlético MG</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130816200000 -0300" stop="20130816220000 -0300" channel="121" program_id="0000341679" event_id="" series_key="">
+<title lang="pt">VT - Premiere Corinthians</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130816220000 -0300" stop="20130817000000 -0300" channel="121" program_id="0000341682" event_id="" series_key="">
+<title lang="pt">VT - Premiere Flamengo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130817000000 -0300" stop="20130817020000 -0300" channel="121" program_id="0000341711" event_id="" series_key="">
+<title lang="pt">VT - Premiere Vasco</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130817020000 -0300" stop="20130817040000 -0300" channel="121" program_id="0000341673" event_id="" series_key="">
+<title lang="pt">VT - Premiere Atlético MG</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130817040000 -0300" stop="20130817060000 -0300" channel="121" program_id="0000341679" event_id="" series_key="">
+<title lang="pt">VT - Premiere Corinthians</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130817060000 -0300" stop="20130817080000 -0300" channel="121" program_id="0000341682" event_id="" series_key="">
+<title lang="pt">VT - Premiere Flamengo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130817080000 -0300" stop="20130817100000 -0300" channel="121" program_id="0000341711" event_id="" series_key="">
+<title lang="pt">VT - Premiere Vasco</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130817100000 -0300" stop="20130817120000 -0300" channel="121" program_id="0000341679" event_id="" series_key="">
+<title lang="pt">VT - Premiere Corinthians</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130817120000 -0300" stop="20130817140000 -0300" channel="121" program_id="0000341682" event_id="" series_key="">
+<title lang="pt">VT - Premiere Flamengo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130817140000 -0300" stop="20130817143000 -0300" channel="121" program_id="0000341729" event_id="" series_key="">
+<title lang="pt">Nação Coxa Branca - Coritiba</title>
+<desc>Nação Coxa Branca - Programa oficial do Coritiba Foot Ball Club com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130817143000 -0300" stop="20130817163000 -0300" channel="121" program_id="0000341711" event_id="" series_key="">
+<title lang="pt">VT - Premiere Vasco</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130817163000 -0300" stop="20130817183000 -0300" channel="121" program_id="0000341698" event_id="" series_key="">
+<title lang="pt">VT - Premiere Pré Jogo Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130817183000 -0300" stop="20130817190000 -0300" channel="121" program_id="0000320579" event_id="" series_key="">
+<title lang="pt">Vitória na TV</title>
+<desc>Programa com os bastidores do Esporte Clube Vitória.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130817190000 -0300" stop="20130817210000 -0300" channel="121" program_id="0000341698" event_id="" series_key="">
+<title lang="pt">VT - Premiere Pré Jogo Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130817210000 -0300" stop="20130817230000 -0300" channel="121" program_id="0000341717" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série B</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130817230000 -0300" stop="20130818000000 -0300" channel="121" program_id="0000267684" event_id="" series_key="">
+<title lang="pt">Camarote FC</title>
+<desc>Jorge Luiz Rodrigues recebe presidentes dos principais clubes brasileiros de futebol para responder perguntas enviadas pelos assinantes, através do site do canal.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130818000000 -0300" stop="20130818020000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130818020000 -0300" stop="20130818040000 -0300" channel="121" program_id="0000341717" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série B</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130818040000 -0300" stop="20130818060000 -0300" channel="121" program_id="0000341717" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série B</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130818060000 -0300" stop="20130818080000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130818080000 -0300" stop="20130818100000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130818100000 -0300" stop="20130818120000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130818120000 -0300" stop="20130818140000 -0300" channel="121" program_id="0000341698" event_id="" series_key="">
+<title lang="pt">VT - Premiere Pré Jogo Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130818140000 -0300" stop="20130818160000 -0300" channel="121" program_id="0000341698" event_id="" series_key="">
+<title lang="pt">VT - Premiere Pré Jogo Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130818160000 -0300" stop="20130818163000 -0300" channel="121" program_id="0000322898" event_id="" series_key="">
+<title lang="pt">CAP TV</title>
+<desc>Programa oficial do Clube Atlético Paranaense com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130818163000 -0300" stop="20130818183000 -0300" channel="121" program_id="0000341698" event_id="" series_key="">
+<title lang="pt">VT - Premiere Pré Jogo Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130818183000 -0300" stop="20130818190000 -0300" channel="121" program_id="0000331469" event_id="" series_key="">
+<title lang="pt">TV Sport</title>
+<desc>Programa com os bastidores do Sport Club do Recife.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130818190000 -0300" stop="20130818193000 -0300" channel="121" program_id="0000341729" event_id="" series_key="">
+<title lang="pt">Nação Coxa Branca - Coritiba</title>
+<desc>Nação Coxa Branca - Programa oficial do Coritiba Foot Ball Club com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130818193000 -0300" stop="20130818200000 -0300" channel="121" program_id="0000320579" event_id="" series_key="">
+<title lang="pt">Vitória na TV</title>
+<desc>Programa com os bastidores do Esporte Clube Vitória.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130818200000 -0300" stop="20130818203000 -0300" channel="121" program_id="0000322898" event_id="" series_key="">
+<title lang="pt">CAP TV</title>
+<desc>Programa oficial do Clube Atlético Paranaense com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130818203000 -0300" stop="20130818210000 -0300" channel="121" program_id="0000331470" event_id="" series_key="">
+<title lang="pt">GO - Programa Oficial do Goiás Esporte Clube</title>
+<desc>Programa oficial do Goiás Esporte Clube com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130818210000 -0300" stop="20130818220000 -0300" channel="121" program_id="0000267684" event_id="" series_key="">
+<title lang="pt">Camarote FC</title>
+<desc>Jorge Luiz Rodrigues recebe presidentes dos principais clubes brasileiros de futebol para responder perguntas enviadas pelos assinantes, através do site do canal.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130818220000 -0300" stop="20130819000000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130819000000 -0300" stop="20130819020000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130819020000 -0300" stop="20130819040000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130819040000 -0300" stop="20130819060000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130819060000 -0300" stop="20130819080000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130819080000 -0300" stop="20130819100000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130819100000 -0300" stop="20130819120000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130819120000 -0300" stop="20130819140000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130819140000 -0300" stop="20130819160000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130819160000 -0300" stop="20130819180000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130819180000 -0300" stop="20130819200000 -0300" channel="121" program_id="0000341701" event_id="" series_key="">
+<title lang="pt">VT - Premiere São Paulo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130819200000 -0300" stop="20130819220000 -0300" channel="121" program_id="0000341694" event_id="" series_key="">
+<title lang="pt">VT - Premiere Nação Coxa Branca</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130819220000 -0300" stop="20130819223000 -0300" channel="121" program_id="0000341729" event_id="" series_key="">
+<title lang="pt">Nação Coxa Branca - Coritiba</title>
+<desc>Nação Coxa Branca - Programa oficial do Coritiba Foot Ball Club com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130819223000 -0300" stop="20130819230000 -0300" channel="121" program_id="0000320579" event_id="" series_key="">
+<title lang="pt">Vitória na TV</title>
+<desc>Programa com os bastidores do Esporte Clube Vitória.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130819230000 -0300" stop="20130820010000 -0300" channel="121" program_id="0000341713" event_id="" series_key="">
+<title lang="pt">VT - Premiere Vitória na TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130820010000 -0300" stop="20130820030000 -0300" channel="121" program_id="0000341694" event_id="" series_key="">
+<title lang="pt">VT - Premiere Nação Coxa Branca</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130820030000 -0300" stop="20130820033000 -0300" channel="121" program_id="0000341729" event_id="" series_key="">
+<title lang="pt">Nação Coxa Branca - Coritiba</title>
+<desc>Nação Coxa Branca - Programa oficial do Coritiba Foot Ball Club com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130820033000 -0300" stop="20130820040000 -0300" channel="121" program_id="0000320579" event_id="" series_key="">
+<title lang="pt">Vitória na TV</title>
+<desc>Programa com os bastidores do Esporte Clube Vitória.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130820040000 -0300" stop="20130820060000 -0300" channel="121" program_id="0000341713" event_id="" series_key="">
+<title lang="pt">VT - Premiere Vitória na TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130820060000 -0300" stop="20130820080000 -0300" channel="121" program_id="0000341694" event_id="" series_key="">
+<title lang="pt">VT - Premiere Nação Coxa Branca</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130820080000 -0300" stop="20130820083000 -0300" channel="121" program_id="0000341729" event_id="" series_key="">
+<title lang="pt">Nação Coxa Branca - Coritiba</title>
+<desc>Nação Coxa Branca - Programa oficial do Coritiba Foot Ball Club com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130820083000 -0300" stop="20130820090000 -0300" channel="121" program_id="0000320579" event_id="" series_key="">
+<title lang="pt">Vitória na TV</title>
+<desc>Programa com os bastidores do Esporte Clube Vitória.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130820090000 -0300" stop="20130820110000 -0300" channel="121" program_id="0000341713" event_id="" series_key="">
+<title lang="pt">VT - Premiere Vitória na TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130820110000 -0300" stop="20130820130000 -0300" channel="121" program_id="0000341701" event_id="" series_key="">
+<title lang="pt">VT - Premiere São Paulo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130820130000 -0300" stop="20130820150000 -0300" channel="121" program_id="0000341694" event_id="" series_key="">
+<title lang="pt">VT - Premiere Nação Coxa Branca</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130820150000 -0300" stop="20130820153000 -0300" channel="121" program_id="0000341729" event_id="" series_key="">
+<title lang="pt">Nação Coxa Branca - Coritiba</title>
+<desc>Nação Coxa Branca - Programa oficial do Coritiba Foot Ball Club com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130820153000 -0300" stop="20130820160000 -0300" channel="121" program_id="0000320579" event_id="" series_key="">
+<title lang="pt">Vitória na TV</title>
+<desc>Programa com os bastidores do Esporte Clube Vitória.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130820160000 -0300" stop="20130820180000 -0300" channel="121" program_id="0000341713" event_id="" series_key="">
+<title lang="pt">VT - Premiere Vitória na TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130820180000 -0300" stop="20130820200000 -0300" channel="121" program_id="0000341696" event_id="" series_key="">
+<title lang="pt">VT - Premiere Palmeiras</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130820200000 -0300" stop="20130820220000 -0300" channel="121" program_id="0000341678" event_id="" series_key="">
+<title lang="pt">VT - Premiere Cap TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130820220000 -0300" stop="20130820223000 -0300" channel="121" program_id="0000322898" event_id="" series_key="">
+<title lang="pt">CAP TV</title>
+<desc>Programa oficial do Clube Atlético Paranaense com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130820223000 -0300" stop="20130820230000 -0300" channel="121" program_id="0000331470" event_id="" series_key="">
+<title lang="pt">GO - Programa Oficial do Goiás Esporte Clube</title>
+<desc>Programa oficial do Goiás Esporte Clube com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130820230000 -0300" stop="20130821010000 -0300" channel="121" program_id="0000341688" event_id="" series_key="">
+<title lang="pt">VT - Premiere GO</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130821010000 -0300" stop="20130821030000 -0300" channel="121" program_id="0000341678" event_id="" series_key="">
+<title lang="pt">VT - Premiere Cap TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130821030000 -0300" stop="20130821033000 -0300" channel="121" program_id="0000322898" event_id="" series_key="">
+<title lang="pt">CAP TV</title>
+<desc>Programa oficial do Clube Atlético Paranaense com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130821033000 -0300" stop="20130821040000 -0300" channel="121" program_id="0000331470" event_id="" series_key="">
+<title lang="pt">GO - Programa Oficial do Goiás Esporte Clube</title>
+<desc>Programa oficial do Goiás Esporte Clube com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130821040000 -0300" stop="20130821060000 -0300" channel="121" program_id="0000341688" event_id="" series_key="">
+<title lang="pt">VT - Premiere GO</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130821060000 -0300" stop="20130821080000 -0300" channel="121" program_id="0000341678" event_id="" series_key="">
+<title lang="pt">VT - Premiere Cap TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130821080000 -0300" stop="20130821083000 -0300" channel="121" program_id="0000322898" event_id="" series_key="">
+<title lang="pt">CAP TV</title>
+<desc>Programa oficial do Clube Atlético Paranaense com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130821083000 -0300" stop="20130821090000 -0300" channel="121" program_id="0000331470" event_id="" series_key="">
+<title lang="pt">GO - Programa Oficial do Goiás Esporte Clube</title>
+<desc>Programa oficial do Goiás Esporte Clube com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130821090000 -0300" stop="20130821110000 -0300" channel="121" program_id="0000341688" event_id="" series_key="">
+<title lang="pt">VT - Premiere GO</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130821110000 -0300" stop="20130821130000 -0300" channel="121" program_id="0000341696" event_id="" series_key="">
+<title lang="pt">VT - Premiere Palmeiras</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130821130000 -0300" stop="20130821150000 -0300" channel="121" program_id="0000341678" event_id="" series_key="">
+<title lang="pt">VT - Premiere Cap TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130821150000 -0300" stop="20130821153000 -0300" channel="121" program_id="0000322898" event_id="" series_key="">
+<title lang="pt">CAP TV</title>
+<desc>Programa oficial do Clube Atlético Paranaense com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130821153000 -0300" stop="20130821160000 -0300" channel="121" program_id="0000331470" event_id="" series_key="">
+<title lang="pt">GO - Programa Oficial do Goiás Esporte Clube</title>
+<desc>Programa oficial do Goiás Esporte Clube com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130821160000 -0300" stop="20130821180000 -0300" channel="121" program_id="0000341688" event_id="" series_key="">
+<title lang="pt">VT - Premiere GO</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130821180000 -0300" stop="20130821200000 -0300" channel="121" program_id="0000341691" event_id="" series_key="">
+<title lang="pt">VT - Premiere Internacional</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130821200000 -0300" stop="20130821220000 -0300" channel="121" program_id="0000341710" event_id="" series_key="">
+<title lang="pt">VT - Premiere TV Sport</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130821220000 -0300" stop="20130821223000 -0300" channel="121" program_id="0000331469" event_id="" series_key="">
+<title lang="pt">TV Sport</title>
+<desc>Programa com os bastidores do Sport Club do Recife.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130821223000 -0300" stop="20130822001000 -0300" channel="121" program_id="0000341675" event_id="" series_key="">
+<title lang="pt">VT - Premiere Botafogo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130822001000 -0300" stop="20130822015000 -0300" channel="121" program_id="0000341680" event_id="" series_key="">
+<title lang="pt">VT - Premiere Cruzeiro</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130822015000 -0300" stop="20130822033000 -0300" channel="121" program_id="0000341710" event_id="" series_key="">
+<title lang="pt">VT - Premiere TV Sport</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130822033000 -0300" stop="20130822040000 -0300" channel="121" program_id="0000331469" event_id="" series_key="">
+<title lang="pt">TV Sport</title>
+<desc>Programa com os bastidores do Sport Club do Recife.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130822040000 -0300" stop="20130822060000 -0300" channel="121" program_id="0000341691" event_id="" series_key="">
+<title lang="pt">VT - Premiere Internacional</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130822060000 -0300" stop="20130822080000 -0300" channel="121" program_id="0000341710" event_id="" series_key="">
+<title lang="pt">VT - Premiere TV Sport</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130822080000 -0300" stop="20130822083000 -0300" channel="121" program_id="0000331469" event_id="" series_key="">
+<title lang="pt">TV Sport</title>
+<desc>Programa com os bastidores do Sport Club do Recife.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130822083000 -0300" stop="20130822101500 -0300" channel="121" program_id="0000341675" event_id="" series_key="">
+<title lang="pt">VT - Premiere Botafogo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130822101500 -0300" stop="20130822120000 -0300" channel="121" program_id="0000341680" event_id="" series_key="">
+<title lang="pt">VT - Premiere Cruzeiro</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130822120000 -0300" stop="20130822135000 -0300" channel="121" program_id="0000341691" event_id="" series_key="">
+<title lang="pt">VT - Premiere Internacional</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130822135000 -0300" stop="20130822153000 -0300" channel="121" program_id="0000341710" event_id="" series_key="">
+<title lang="pt">VT - Premiere TV Sport</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130822153000 -0300" stop="20130822160000 -0300" channel="121" program_id="0000331469" event_id="" series_key="">
+<title lang="pt">TV Sport</title>
+<desc>Programa com os bastidores do Sport Club do Recife.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130822160000 -0300" stop="20130822180000 -0300" channel="121" program_id="0000341675" event_id="" series_key="">
+<title lang="pt">VT - Premiere Botafogo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130822180000 -0300" stop="20130822200000 -0300" channel="121" program_id="0000343529" event_id="" series_key="">
+<title lang="pt">VT - Premiere Bahia</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130822200000 -0300" stop="20130822220000 -0300" channel="121" program_id="0000341689" event_id="" series_key="">
+<title lang="pt">VT - Premiere Grêmio</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130822220000 -0300" stop="20130823000000 -0300" channel="121" program_id="0000341699" event_id="" series_key="">
+<title lang="pt">VT - Premiere Santos</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130823000000 -0300" stop="20130823020000 -0300" channel="121" program_id="0000341686" event_id="" series_key="">
+<title lang="pt">VT - Premiere Fluminense</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130823020000 -0300" stop="20130823040000 -0300" channel="121" program_id="0000343529" event_id="" series_key="">
+<title lang="pt">VT - Premiere Bahia</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130823040000 -0300" stop="20130823060000 -0300" channel="121" program_id="0000341699" event_id="" series_key="">
+<title lang="pt">VT - Premiere Santos</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130823060000 -0300" stop="20130823080000 -0300" channel="121" program_id="0000341686" event_id="" series_key="">
+<title lang="pt">VT - Premiere Fluminense</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130823080000 -0300" stop="20130823100000 -0300" channel="121" program_id="0000341699" event_id="" series_key="">
+<title lang="pt">VT - Premiere Santos</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130823100000 -0300" stop="20130823120000 -0300" channel="121" program_id="0000343529" event_id="" series_key="">
+<title lang="pt">VT - Premiere Bahia</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130823120000 -0300" stop="20130823140000 -0300" channel="121" program_id="0000341689" event_id="" series_key="">
+<title lang="pt">VT - Premiere Grêmio</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130823140000 -0300" stop="20130823160000 -0300" channel="121" program_id="0000341699" event_id="" series_key="">
+<title lang="pt">VT - Premiere Santos</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130823160000 -0300" stop="20130823180000 -0300" channel="121" program_id="0000341686" event_id="" series_key="">
+<title lang="pt">VT - Premiere Fluminense</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130823180000 -0300" stop="20130823200000 -0300" channel="121" program_id="0000341673" event_id="" series_key="">
+<title lang="pt">VT - Premiere Atlético MG</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130823200000 -0300" stop="20130823220000 -0300" channel="121" program_id="0000341679" event_id="" series_key="">
+<title lang="pt">VT - Premiere Corinthians</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130823220000 -0300" stop="20130824000000 -0300" channel="121" program_id="0000341682" event_id="" series_key="">
+<title lang="pt">VT - Premiere Flamengo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130824000000 -0300" stop="20130824020000 -0300" channel="121" program_id="0000341711" event_id="" series_key="">
+<title lang="pt">VT - Premiere Vasco</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130824020000 -0300" stop="20130824040000 -0300" channel="121" program_id="0000341673" event_id="" series_key="">
+<title lang="pt">VT - Premiere Atlético MG</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130824040000 -0300" stop="20130824060000 -0300" channel="121" program_id="0000341679" event_id="" series_key="">
+<title lang="pt">VT - Premiere Corinthians</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130824060000 -0300" stop="20130824080000 -0300" channel="121" program_id="0000341682" event_id="" series_key="">
+<title lang="pt">VT - Premiere Flamengo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130824080000 -0300" stop="20130824100000 -0300" channel="121" program_id="0000341711" event_id="" series_key="">
+<title lang="pt">VT - Premiere Vasco</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130824100000 -0300" stop="20130824120000 -0300" channel="121" program_id="0000341679" event_id="" series_key="">
+<title lang="pt">VT - Premiere Corinthians</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130824120000 -0300" stop="20130824140000 -0300" channel="121" program_id="0000341682" event_id="" series_key="">
+<title lang="pt">VT - Premiere Flamengo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130824140000 -0300" stop="20130824143000 -0300" channel="121" program_id="0000341729" event_id="" series_key="">
+<title lang="pt">Nação Coxa Branca - Coritiba</title>
+<desc>Nação Coxa Branca - Programa oficial do Coritiba Foot Ball Club com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130824143000 -0300" stop="20130824163000 -0300" channel="121" program_id="0000344962" event_id="" series_key="">
+<title lang="pt">VT - Premiere Pré Jogo Série B</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130824163000 -0300" stop="20130824183000 -0300" channel="121" program_id="0000341698" event_id="" series_key="">
+<title lang="pt">VT - Premiere Pré Jogo Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130824183000 -0300" stop="20130824190000 -0300" channel="121" program_id="0000320579" event_id="" series_key="">
+<title lang="pt">Vitória na TV</title>
+<desc>Programa com os bastidores do Esporte Clube Vitória.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130824190000 -0300" stop="20130824210000 -0300" channel="121" program_id="0000341698" event_id="" series_key="">
+<title lang="pt">VT - Premiere Pré Jogo Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130824210000 -0300" stop="20130824230000 -0300" channel="121" program_id="0000341717" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série B</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130824230000 -0300" stop="20130825000000 -0300" channel="121" program_id="0000267684" event_id="" series_key="">
+<title lang="pt">Camarote FC</title>
+<desc>Jorge Luiz Rodrigues recebe presidentes dos principais clubes brasileiros de futebol para responder perguntas enviadas pelos assinantes, através do site do canal.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130825000000 -0300" stop="20130825020000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130825020000 -0300" stop="20130825040000 -0300" channel="121" program_id="0000341717" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série B</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130825040000 -0300" stop="20130825060000 -0300" channel="121" program_id="0000341717" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série B</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130825060000 -0300" stop="20130825080000 -0300" channel="121" program_id="0000341717" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série B</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130825080000 -0300" stop="20130825100000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130825100000 -0300" stop="20130825120000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130825120000 -0300" stop="20130825140000 -0300" channel="121" program_id="0000341698" event_id="" series_key="">
+<title lang="pt">VT - Premiere Pré Jogo Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130825140000 -0300" stop="20130825160000 -0300" channel="121" program_id="0000341698" event_id="" series_key="">
+<title lang="pt">VT - Premiere Pré Jogo Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130825160000 -0300" stop="20130825163000 -0300" channel="121" program_id="0000322898" event_id="" series_key="">
+<title lang="pt">CAP TV</title>
+<desc>Programa oficial do Clube Atlético Paranaense com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130825163000 -0300" stop="20130825183000 -0300" channel="121" program_id="0000341698" event_id="" series_key="">
+<title lang="pt">VT - Premiere Pré Jogo Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130825183000 -0300" stop="20130825190000 -0300" channel="121" program_id="0000331469" event_id="" series_key="">
+<title lang="pt">TV Sport</title>
+<desc>Programa com os bastidores do Sport Club do Recife.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130825190000 -0300" stop="20130825193000 -0300" channel="121" program_id="0000341729" event_id="" series_key="">
+<title lang="pt">Nação Coxa Branca - Coritiba</title>
+<desc>Nação Coxa Branca - Programa oficial do Coritiba Foot Ball Club com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130825193000 -0300" stop="20130825200000 -0300" channel="121" program_id="0000320579" event_id="" series_key="">
+<title lang="pt">Vitória na TV</title>
+<desc>Programa com os bastidores do Esporte Clube Vitória.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130825200000 -0300" stop="20130825203000 -0300" channel="121" program_id="0000322898" event_id="" series_key="">
+<title lang="pt">CAP TV</title>
+<desc>Programa oficial do Clube Atlético Paranaense com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130825203000 -0300" stop="20130825210000 -0300" channel="121" program_id="0000331470" event_id="" series_key="">
+<title lang="pt">GO - Programa Oficial do Goiás Esporte Clube</title>
+<desc>Programa oficial do Goiás Esporte Clube com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130825210000 -0300" stop="20130825220000 -0300" channel="121" program_id="0000267684" event_id="" series_key="">
+<title lang="pt">Camarote FC</title>
+<desc>Jorge Luiz Rodrigues recebe presidentes dos principais clubes brasileiros de futebol para responder perguntas enviadas pelos assinantes, através do site do canal.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130825220000 -0300" stop="20130826000000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130826000000 -0300" stop="20130826020000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130826020000 -0300" stop="20130826040000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130826040000 -0300" stop="20130826060000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130826060000 -0300" stop="20130826080000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130826080000 -0300" stop="20130826100000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130826100000 -0300" stop="20130826120000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130826120000 -0300" stop="20130826140000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130826140000 -0300" stop="20130826160000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130826160000 -0300" stop="20130826180000 -0300" channel="121" program_id="0000343530" event_id="" series_key="">
+<title lang="pt">VT da Rodada Série A</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130826180000 -0300" stop="20130826200000 -0300" channel="121" program_id="0000341701" event_id="" series_key="">
+<title lang="pt">VT - Premiere São Paulo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130826200000 -0300" stop="20130826220000 -0300" channel="121" program_id="0000341694" event_id="" series_key="">
+<title lang="pt">VT - Premiere Nação Coxa Branca</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130826220000 -0300" stop="20130826223000 -0300" channel="121" program_id="0000341729" event_id="" series_key="">
+<title lang="pt">Nação Coxa Branca - Coritiba</title>
+<desc>Nação Coxa Branca - Programa oficial do Coritiba Foot Ball Club com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130826223000 -0300" stop="20130826230000 -0300" channel="121" program_id="0000320579" event_id="" series_key="">
+<title lang="pt">Vitória na TV</title>
+<desc>Programa com os bastidores do Esporte Clube Vitória.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130826230000 -0300" stop="20130827010000 -0300" channel="121" program_id="0000341713" event_id="" series_key="">
+<title lang="pt">VT - Premiere Vitória na TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130827010000 -0300" stop="20130827030000 -0300" channel="121" program_id="0000341694" event_id="" series_key="">
+<title lang="pt">VT - Premiere Nação Coxa Branca</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130827030000 -0300" stop="20130827033000 -0300" channel="121" program_id="0000341729" event_id="" series_key="">
+<title lang="pt">Nação Coxa Branca - Coritiba</title>
+<desc>Nação Coxa Branca - Programa oficial do Coritiba Foot Ball Club com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130827033000 -0300" stop="20130827040000 -0300" channel="121" program_id="0000320579" event_id="" series_key="">
+<title lang="pt">Vitória na TV</title>
+<desc>Programa com os bastidores do Esporte Clube Vitória.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130827040000 -0300" stop="20130827060000 -0300" channel="121" program_id="0000341713" event_id="" series_key="">
+<title lang="pt">VT - Premiere Vitória na TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130827060000 -0300" stop="20130827080000 -0300" channel="121" program_id="0000341694" event_id="" series_key="">
+<title lang="pt">VT - Premiere Nação Coxa Branca</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130827080000 -0300" stop="20130827083000 -0300" channel="121" program_id="0000341729" event_id="" series_key="">
+<title lang="pt">Nação Coxa Branca - Coritiba</title>
+<desc>Nação Coxa Branca - Programa oficial do Coritiba Foot Ball Club com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130827083000 -0300" stop="20130827090000 -0300" channel="121" program_id="0000320579" event_id="" series_key="">
+<title lang="pt">Vitória na TV</title>
+<desc>Programa com os bastidores do Esporte Clube Vitória.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130827090000 -0300" stop="20130827110000 -0300" channel="121" program_id="0000341713" event_id="" series_key="">
+<title lang="pt">VT - Premiere Vitória na TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130827110000 -0300" stop="20130827130000 -0300" channel="121" program_id="0000341701" event_id="" series_key="">
+<title lang="pt">VT - Premiere São Paulo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130827130000 -0300" stop="20130827150000 -0300" channel="121" program_id="0000341694" event_id="" series_key="">
+<title lang="pt">VT - Premiere Nação Coxa Branca</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130827150000 -0300" stop="20130827153000 -0300" channel="121" program_id="0000341729" event_id="" series_key="">
+<title lang="pt">Nação Coxa Branca - Coritiba</title>
+<desc>Nação Coxa Branca - Programa oficial do Coritiba Foot Ball Club com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130827153000 -0300" stop="20130827160000 -0300" channel="121" program_id="0000320579" event_id="" series_key="">
+<title lang="pt">Vitória na TV</title>
+<desc>Programa com os bastidores do Esporte Clube Vitória.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130827160000 -0300" stop="20130827180000 -0300" channel="121" program_id="0000341713" event_id="" series_key="">
+<title lang="pt">VT - Premiere Vitória na TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130827180000 -0300" stop="20130827200000 -0300" channel="121" program_id="0000341696" event_id="" series_key="">
+<title lang="pt">VT - Premiere Palmeiras</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130827200000 -0300" stop="20130827220000 -0300" channel="121" program_id="0000341678" event_id="" series_key="">
+<title lang="pt">VT - Premiere Cap TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130827220000 -0300" stop="20130827223000 -0300" channel="121" program_id="0000322898" event_id="" series_key="">
+<title lang="pt">CAP TV</title>
+<desc>Programa oficial do Clube Atlético Paranaense com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130827223000 -0300" stop="20130827230000 -0300" channel="121" program_id="0000331470" event_id="" series_key="">
+<title lang="pt">GO - Programa Oficial do Goiás Esporte Clube</title>
+<desc>Programa oficial do Goiás Esporte Clube com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130827230000 -0300" stop="20130828010000 -0300" channel="121" program_id="0000341688" event_id="" series_key="">
+<title lang="pt">VT - Premiere GO</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130828010000 -0300" stop="20130828030000 -0300" channel="121" program_id="0000341678" event_id="" series_key="">
+<title lang="pt">VT - Premiere Cap TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130828030000 -0300" stop="20130828033000 -0300" channel="121" program_id="0000322898" event_id="" series_key="">
+<title lang="pt">CAP TV</title>
+<desc>Programa oficial do Clube Atlético Paranaense com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130828033000 -0300" stop="20130828040000 -0300" channel="121" program_id="0000331470" event_id="" series_key="">
+<title lang="pt">GO - Programa Oficial do Goiás Esporte Clube</title>
+<desc>Programa oficial do Goiás Esporte Clube com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130828040000 -0300" stop="20130828060000 -0300" channel="121" program_id="0000341688" event_id="" series_key="">
+<title lang="pt">VT - Premiere GO</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130828060000 -0300" stop="20130828080000 -0300" channel="121" program_id="0000341678" event_id="" series_key="">
+<title lang="pt">VT - Premiere Cap TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130828080000 -0300" stop="20130828083000 -0300" channel="121" program_id="0000322898" event_id="" series_key="">
+<title lang="pt">CAP TV</title>
+<desc>Programa oficial do Clube Atlético Paranaense com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130828083000 -0300" stop="20130828090000 -0300" channel="121" program_id="0000331470" event_id="" series_key="">
+<title lang="pt">GO - Programa Oficial do Goiás Esporte Clube</title>
+<desc>Programa oficial do Goiás Esporte Clube com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130828090000 -0300" stop="20130828110000 -0300" channel="121" program_id="0000341688" event_id="" series_key="">
+<title lang="pt">VT - Premiere GO</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130828110000 -0300" stop="20130828130000 -0300" channel="121" program_id="0000341696" event_id="" series_key="">
+<title lang="pt">VT - Premiere Palmeiras</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130828130000 -0300" stop="20130828150000 -0300" channel="121" program_id="0000347054" event_id="" series_key="">
+<title lang="pt">VT - Premiere Cap TV Cap</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130828150000 -0300" stop="20130828153000 -0300" channel="121" program_id="0000347055" event_id="" series_key="">
+<title lang="pt">TV Cap</title>
+<desc>Programa oficial do Clube Atlético Paranaense com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130828153000 -0300" stop="20130828160000 -0300" channel="121" program_id="0000331470" event_id="" series_key="">
+<title lang="pt">GO - Programa Oficial do Goiás Esporte Clube</title>
+<desc>Programa oficial do Goiás Esporte Clube com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130828160000 -0300" stop="20130828180000 -0300" channel="121" program_id="0000341688" event_id="" series_key="">
+<title lang="pt">VT - Premiere GO</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130828180000 -0300" stop="20130828200000 -0300" channel="121" program_id="0000341691" event_id="" series_key="">
+<title lang="pt">VT - Premiere Internacional</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130828200000 -0300" stop="20130828220000 -0300" channel="121" program_id="0000341710" event_id="" series_key="">
+<title lang="pt">VT - Premiere TV Sport</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130828220000 -0300" stop="20130828223000 -0300" channel="121" program_id="0000331469" event_id="" series_key="">
+<title lang="pt">TV Sport</title>
+<desc>Programa com os bastidores do Sport Club do Recife.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130828223000 -0300" stop="20130829001000 -0300" channel="121" program_id="0000341675" event_id="" series_key="">
+<title lang="pt">VT - Premiere Botafogo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130829001000 -0300" stop="20130829015000 -0300" channel="121" program_id="0000341680" event_id="" series_key="">
+<title lang="pt">VT - Premiere Cruzeiro</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130829015000 -0300" stop="20130829033000 -0300" channel="121" program_id="0000341710" event_id="" series_key="">
+<title lang="pt">VT - Premiere TV Sport</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130829033000 -0300" stop="20130829040000 -0300" channel="121" program_id="0000331469" event_id="" series_key="">
+<title lang="pt">TV Sport</title>
+<desc>Programa com os bastidores do Sport Club do Recife.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130829040000 -0300" stop="20130829060000 -0300" channel="121" program_id="0000341691" event_id="" series_key="">
+<title lang="pt">VT - Premiere Internacional</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130829060000 -0300" stop="20130829080000 -0300" channel="121" program_id="0000341710" event_id="" series_key="">
+<title lang="pt">VT - Premiere TV Sport</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130829080000 -0300" stop="20130829083000 -0300" channel="121" program_id="0000331469" event_id="" series_key="">
+<title lang="pt">TV Sport</title>
+<desc>Programa com os bastidores do Sport Club do Recife.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130829083000 -0300" stop="20130829101000 -0300" channel="121" program_id="0000341675" event_id="" series_key="">
+<title lang="pt">VT - Premiere Botafogo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130829101000 -0300" stop="20130829120000 -0300" channel="121" program_id="0000341680" event_id="" series_key="">
+<title lang="pt">VT - Premiere Cruzeiro</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130829120000 -0300" stop="20130829135000 -0300" channel="121" program_id="0000341691" event_id="" series_key="">
+<title lang="pt">VT - Premiere Internacional</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130829135000 -0300" stop="20130829153000 -0300" channel="121" program_id="0000341710" event_id="" series_key="">
+<title lang="pt">VT - Premiere TV Sport</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130829153000 -0300" stop="20130829160000 -0300" channel="121" program_id="0000331469" event_id="" series_key="">
+<title lang="pt">TV Sport</title>
+<desc>Programa com os bastidores do Sport Club do Recife.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130829160000 -0300" stop="20130829180000 -0300" channel="121" program_id="0000341675" event_id="" series_key="">
+<title lang="pt">VT - Premiere Botafogo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130829180000 -0300" stop="20130829200000 -0300" channel="121" program_id="0000343529" event_id="" series_key="">
+<title lang="pt">VT - Premiere Bahia</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130829200000 -0300" stop="20130829220000 -0300" channel="121" program_id="0000341689" event_id="" series_key="">
+<title lang="pt">VT - Premiere Grêmio</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130829220000 -0300" stop="20130830000000 -0300" channel="121" program_id="0000341699" event_id="" series_key="">
+<title lang="pt">VT - Premiere Santos</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130830000000 -0300" stop="20130830020000 -0300" channel="121" program_id="0000341686" event_id="" series_key="">
+<title lang="pt">VT - Premiere Fluminense</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130830020000 -0300" stop="20130830040000 -0300" channel="121" program_id="0000343529" event_id="" series_key="">
+<title lang="pt">VT - Premiere Bahia</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130830040000 -0300" stop="20130830060000 -0300" channel="121" program_id="0000341699" event_id="" series_key="">
+<title lang="pt">VT - Premiere Santos</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130830060000 -0300" stop="20130830080000 -0300" channel="121" program_id="0000341686" event_id="" series_key="">
+<title lang="pt">VT - Premiere Fluminense</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130830080000 -0300" stop="20130830094500 -0300" channel="121" program_id="0000341694" event_id="" series_key="">
+<title lang="pt">VT - Premiere Nação Coxa Branca</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130830094500 -0300" stop="20130830114000 -0300" channel="121" program_id="0000347342" event_id="" series_key="">
+<title lang="pt">VT - Premiere TV CAP</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130830114000 -0300" stop="20130830132000 -0300" channel="121" program_id="0000341699" event_id="" series_key="">
+<title lang="pt">VT - Premiere Santos</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130830132000 -0300" stop="20130830150000 -0300" channel="121" program_id="0000341696" event_id="" series_key="">
+<title lang="pt">VT - Premiere Palmeiras</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130830150000 -0300" stop="20130830164500 -0300" channel="121" program_id="0000341701" event_id="" series_key="">
+<title lang="pt">VT - Premiere São Paulo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130830164500 -0300" stop="20130830184000 -0300" channel="121" program_id="0000341679" event_id="" series_key="">
+<title lang="pt">VT - Premiere Corinthians</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130830184000 -0300" stop="20130830202000 -0300" channel="121" program_id="0000341686" event_id="" series_key="">
+<title lang="pt">VT - Premiere Fluminense</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130830202000 -0300" stop="20130830221000 -0300" channel="121" program_id="0000341711" event_id="" series_key="">
+<title lang="pt">VT - Premiere Vasco</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130830221000 -0300" stop="20130830235000 -0300" channel="121" program_id="0000341682" event_id="" series_key="">
+<title lang="pt">VT - Premiere Flamengo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130830235000 -0300" stop="20130831013000 -0300" channel="121" program_id="0000341675" event_id="" series_key="">
+<title lang="pt">VT - Premiere Botafogo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130831013000 -0300" stop="20130831023000 -0300" channel="121" program_id="0000267684" event_id="" series_key="">
+<title lang="pt">Camarote FC</title>
+<desc>Jorge Luiz Rodrigues recebe presidentes dos principais clubes brasileiros de futebol para responder perguntas enviadas pelos assinantes, através do site do canal.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130831023000 -0300" stop="20130831041500 -0300" channel="121" program_id="0000341710" event_id="" series_key="">
+<title lang="pt">VT - Premiere TV Sport</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130831041500 -0300" stop="20130831044500 -0300" channel="121" program_id="0000331469" event_id="" series_key="">
+<title lang="pt">TV Sport</title>
+<desc>Programa com os bastidores do Sport Club do Recife.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130831044500 -0300" stop="20130831063000 -0300" channel="121" program_id="0000341688" event_id="" series_key="">
+<title lang="pt">VT - Premiere GO</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130831063000 -0300" stop="20130831070000 -0300" channel="121" program_id="0000331470" event_id="" series_key="">
+<title lang="pt">GO - Programa Oficial do Goiás Esporte Clube</title>
+<desc>Programa oficial do Goiás Esporte Clube com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130831070000 -0300" stop="20130831073000 -0300" channel="121" program_id="0000341729" event_id="" series_key="">
+<title lang="pt">Nação Coxa Branca - Coritiba</title>
+<desc>Nação Coxa Branca - Programa oficial do Coritiba Foot Ball Club com os treinos, entrevistas e bastidores do clube.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130831073000 -0300" stop="20130831075500 -0300" channel="121" program_id="0000320579" event_id="" series_key="">
+<title lang="pt">Vitória na TV</title>
+<desc>Programa com os bastidores do Esporte Clube Vitória.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130831075500 -0300" stop="20130831093500 -0300" channel="121" program_id="0000341713" event_id="" series_key="">
+<title lang="pt">VT - Premiere Vitória na TV</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130831093500 -0300" stop="20130831095000 -0300" channel="121" program_id="0000346343" event_id="" series_key="">
+<title lang="pt">Criciúma - Eu Acredito</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130831095000 -0300" stop="20130831113000 -0300" channel="121" program_id="0000343529" event_id="" series_key="">
+<title lang="pt">VT - Premiere Bahia</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130831113000 -0300" stop="20130831131500 -0300" channel="121" program_id="0000341673" event_id="" series_key="">
+<title lang="pt">VT - Premiere Atlético MG</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130831131500 -0300" stop="20130831150000 -0300" channel="121" program_id="0000341680" event_id="" series_key="">
+<title lang="pt">VT - Premiere Cruzeiro</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130831150000 -0300" stop="20130831151000 -0300" channel="121" program_id="0000346343" event_id="" series_key="">
+<title lang="pt">Criciúma - Eu Acredito</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130831151000 -0300" stop="20130831165000 -0300" channel="121" program_id="0000341691" event_id="" series_key="">
+<title lang="pt">VT - Premiere Internacional</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130831165000 -0300" stop="20130831183000 -0300" channel="121" program_id="0000341689" event_id="" series_key="">
+<title lang="pt">VT - Premiere Grêmio</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130831183000 -0300" stop="20130831201000 -0300" channel="121" program_id="0000341696" event_id="" series_key="">
+<title lang="pt">VT - Premiere Palmeiras</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130831201000 -0300" stop="20130831202500 -0300" channel="121" program_id="0000346343" event_id="" series_key="">
+<title lang="pt">Criciúma - Eu Acredito</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130831202500 -0300" stop="20130831220500 -0300" channel="121" program_id="0000341701" event_id="" series_key="">
+<title lang="pt">VT - Premiere São Paulo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130831220500 -0300" stop="20130831234500 -0300" channel="121" program_id="0000341679" event_id="" series_key="">
+<title lang="pt">VT - Premiere Corinthians</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+<programme start="20130831234500 -0300" stop="20130901013000 -0300" channel="121" program_id="0000341699" event_id="" series_key="">
+<title lang="pt">VT - Premiere Santos</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>L</value>
+</rating>
+</programme>
+</tv>
